@@ -17,7 +17,7 @@
 
 ---
 
-### � About Me
+### 👨‍💻 About Me
 
 I am a **Computer Science Graduate** and **Full-Stack Developer** based in Bengaluru. I specialize in building scalable web applications with premium UI/UX and robust backends.
 
@@ -25,7 +25,7 @@ I am a **Computer Science Graduate** and **Full-Stack Developer** based in Benga
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h4>� Current Focus</h4>
+        <h4>🚀 Current Focus</h4>
         <ul>
           <li>Building <b>GymPro</b> SaaS Platform</li>
           <li>Mastering <b>Spring Boot</b> & <b>React</b></li>
@@ -96,7 +96,7 @@ I am a **Computer Science Graduate** and **Full-Stack Developer** based in Benga
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Sachinc&layout=compact&theme=tokyonight" width="48% " />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Sachinc&layout=compact&theme=vision-friendly-dark" width="48% " />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="48% " />
 </div>
 
@@ -104,7 +104,7 @@ I am a **Computer Science Graduate** and **Full-Stack Developer** based in Benga
 
 <h4 align="center">🐍 The Contribution Snake</h4>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/01Sachinc/01Sachinc/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/01Sachinc/01Sachinc/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake (Please wait for GitHub Action to run...)" />
 </div>
 
 ---
@@ -131,5 +131,5 @@ I am a **Computer Science Graduate** and **Full-Stack Developer** based in Benga
 </p>
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F01Sachinc%2F01Sachinc&count_bg=%232F81F7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+  <img src="https://komarev.com/ghpvc/?username=01Sachinc&label=Hits&color=2F81F7&style=flat-square" />
 </div>
