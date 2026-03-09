@@ -2,7 +2,7 @@
 <!-- Designed for Sachin Somannachar (01Sachinc) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=300&section=header&text=Sachin%20Somannachar&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=300&section=header&text=Sachin%20Somannachar&fontSize=70&animation=fadeIn&fontAlignY=35&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
@@ -58,13 +58,15 @@ I am a **Computer Science Graduate** and **Full-Stack Developer** based in Benga
 <br/>
 
 **GymPro** is a premium Gym Management Platform designed for owners and members.
+
 - **Frontend**: React (Vite) + Tailwind CSS (Premium Glassmorphism Design).
 - **Backend**: Java Spring Boot Rest API.
 - **DevOps**: Dockerized for seamless deployment.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="50px" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50px" />
+  <a href="https://github.com/01Sachinc/GymPro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Sachinc&repo=GymPro&theme=tokyonight" />
+  </a>
 </p>
 
 [**Explore GymPro Repository ➔**](https://github.com/01Sachinc/GymPro)
@@ -74,8 +76,8 @@ I am a **Computer Science Graduate** and **Full-Stack Developer** based in Benga
 ### 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <a href="https://skillicons.dev outline">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,java,spring,nodejs,mysql,git,github,docker,aws,linux,githubactions" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,java,spring,nodejs,mysql,git,github,docker,aws,linux,githubactions&theme=dark" />
   </a>
 </p>
 
@@ -91,20 +93,20 @@ I am a **Computer Science Graduate** and **Full-Stack Developer** based in Benga
 ### 📊 GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=01Sachinc&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48% " />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=01Sachinc&theme=tokyonight" width="48% " />
+  <img src="https://github-readme-stats.vercel.app/api?username=01Sachinc&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=01Sachinc&theme=tokyonight" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Sachinc&layout=compact&theme=vision-friendly-dark" width="48% " />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="48% " />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Sachinc&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="48%" />
 </div>
 
 <br/>
 
 <h4 align="center">🐍 The Contribution Snake</h4>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/01Sachinc/01Sachinc/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake (Please wait for GitHub Action to run...)" />
+  <img src="https://raw.githubusercontent.com/01Sachinc/01Sachinc/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
 </div>
 
 ---
