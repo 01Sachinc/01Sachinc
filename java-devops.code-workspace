@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "java-fullstack-devops-app/backend"
+		}
+	],
+	"get_settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}

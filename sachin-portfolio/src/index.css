@@ -1,0 +1,102 @@
+@import "tailwindcss";
+
+@theme {
+  --color-dark: #020617;
+  --color-dark-lighter: #0f172a;
+  --color-dark-card: #1e293b;
+
+  --color-primary-50: #f0f9ff;
+  --color-primary-100: #e0f2fe;
+  --color-primary-200: #bae6fd;
+  --color-primary-300: #7dd3fc;
+  --color-primary-400: #38bdf8;
+  --color-primary-500: #0ea5e9;
+  --color-primary-600: #0284c7;
+  --color-primary-700: #0369a1;
+  --color-primary-800: #075985;
+  --color-primary-900: #0c4a6e;
+  --color-primary-950: #082f49;
+
+  --font-serif: "Inter", sans-serif;
+  --font-heading: "Outfit", sans-serif;
+
+  --animate-gradient: gradient 8s linear infinite;
+
+  @keyframes gradient {
+    0%, 100% {
+      background-size: 200% 200%;
+      background-position: left center;
+    }
+    50% {
+      background-size: 200% 200%;
+      background-position: right center;
+    }
+  }
+}
+
+/* Base Styles */
+@layer base {
+  :root {
+    color-scheme: dark;
+  }
+
+  body {
+    margin: 0;
+    font-family: var(--font-serif);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    @apply bg-dark text-slate-200 overflow-x-hidden;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+  }
+}
+
+/* Tailwind v4 Utilities */
+@utility glass {
+  @apply bg-white/10 backdrop-blur-md border border-white/20 shadow-xl;
+}
+
+@utility glass-dark {
+  @apply bg-black/40 backdrop-blur-lg border border-white/10 shadow-2xl;
+}
+
+@utility glass-card {
+  @apply glass-dark hover:bg-white/5 transition-all duration-300;
+}
+
+@utility text-gradient {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-primary-400 via-blue-500 to-cyan-400;
+}
+
+@utility section-padding {
+  @apply py-20 px-6 md:px-12 lg:px-24 max-w-7xl mx-auto;
+}
+
+/* Custom Utilities */
+@layer utilities {
+  .bg-mesh {
+    background-color: var(--color-dark);
+    background-image:
+      radial-gradient(at 0% 0%, hsla(217, 100%, 15%, 1) 0, transparent 50%),
+      radial-gradient(at 50% 0%, hsla(199, 100%, 20%, 1) 0, transparent 50%),
+      radial-gradient(at 100% 0%, hsla(215, 90%, 15%, 1) 0, transparent 50%);
+  }
+
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-dark;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply bg-primary-500/50 rounded-full hover:bg-primary-500/80 transition-colors;
+  }
+}
+
+.section-padding {
+  @apply py-20 px-6 md:px-12 lg:px-24 max-w-7xl mx-auto;
+}
